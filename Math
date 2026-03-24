@@ -1,0 +1,5 @@
+print("hello my two python!")
+cavab=input("8*7? ")
+if cavab=="56":                print("true")
+else:
+ print( "wrong" )
